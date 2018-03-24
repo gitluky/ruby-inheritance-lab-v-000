@@ -20,4 +20,6 @@ some_knowledge = avi.teach
 
 steve.learn(some_knowledge)
 
+jim.learn(knowledge)
+
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
